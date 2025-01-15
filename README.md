@@ -1,2 +1,2 @@
-# mr-url-shortener
+# url-shortener
 Let's build a url shortener
